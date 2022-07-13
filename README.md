@@ -8,9 +8,9 @@ A. C. <b>Doná Dev FSPHP</b>
 
 # Projeto acd-project-name 📱 💻 🖥️ 
 
->Este projeto é um modelo
+>Este projeto é um CSS de criação de um card responsivo
 
-Objetivo é a utilização do mesmo em outros projetos
+Objetivo é o estudo de recursos de CSS e de criação de um card responsivo.
 
 ## Histórico de alterações
 
@@ -26,19 +26,11 @@ Objetivo é a utilização do mesmo em outros projetos
 
 ### Pré requisitos
 
-- um navegador com suporte a javascript
+- um navegador com suporte a css
 
 ## Software utilizado
 - Visual Studio Code
 - Notepad++
-
-## Observações
-
-- Para funcionar corretamente, o projeto deve ser em localhost/index.html,
-sendo o localhost o endereço do seu servidor. 
-Se for tentado o acesso direto pelo index.html, o navegador apontará erro:
-O acesso ao script foi bloqueado pela política CORS.
-Access to script has been blocked by CORS policyps.
 
 ## Crédito
 
