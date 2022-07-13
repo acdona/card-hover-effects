@@ -2,11 +2,11 @@
 <br>
 <img src="https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png" alt="acdona" width="120">
 <br>
-A. C. <b>Doná Dev FSPHP</b>
+A. C. <b>Doná Dev FSPHPJS</b>
 </h1>
 <br>
 
-# Projeto acd-project-name 📱 💻 🖥️ 
+# Projeto acd-card-hover-css 📱 💻 🖥️ 
 
 >Este projeto é um CSS de criação de um card responsivo
 
